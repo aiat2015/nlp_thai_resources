@@ -151,7 +151,7 @@ ThaiNER | Thai Named Entity Recognition for PyThaiNLP | Python | | Apache 2.0 (c
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-News Structure Tagging Program | Thai News Structure Tagging Program | | Metadata tagging, Structure tagging, Automatic News Title Generation | GPL | [AIAT](http://aiat.in.th/resources/index.php/tools/47-1-0-news-structure-tagging-program-version-1-0)
+News Structure Tagging Program | Thai News Structure Tagging Program | | Metadata tagging, Structure tagging, Automatic News Title Generation | GPL | [KINDML](http://aiat.in.th/resources/index.php/tools/47-1-0-news-structure-tagging-program-version-1-0)
 
 ### Syntactic Parsing & Tools
 
