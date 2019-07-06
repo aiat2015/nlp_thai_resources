@@ -144,7 +144,7 @@ Chart-POS | Thai POS Tagger | C |  | All rights reserved | AIAT, KINDML, Thanaru
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Named Entity Tagging (Thai NEST) | Thai Named Entity tagging Specification and Tools | | | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/), [AIAT](http://aiat.in.th/resources/index.php/tools/48-1-0-named-entity-tagging-program-version-1-0)
+Named Entity Tagging (Thai NEST) | Thai Named Entity tagging Specification and Tools | | | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/)
 ThaiNER | Thai Named Entity Recognition for PyThaiNLP | Python | | Apache 2.0 (code) & CC BY 3.0 (Dataset) | [ThaiNER](https://github.com/wannaphongcom/thai-ner)
 
 ### News Structure Tagging
@@ -203,7 +203,7 @@ Toxicity in Thai Tweet Corpus |Tokyo Metropolitan University Natural Language Pr
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 Thai National Corpus 2 | | 32M words | Query text by genre, domain |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
-Thai Medical Document | | 3,594 docs | Document and dynamic keyword map |  All rights reserved  | [KINDML, SIIT](http://md.knowdd.com/) 
+Thai Medical Document | | 3,594 docs | Document and dynamic keyword map |  All rights reserved  | [KINDML, SIIT](http://md.knowdd.com/)  [Backup](https://saki.siit.tu.ac.th/kindml/mdprojects/)
 Southeast Asian Languages Library | Thai News, Web Text, Pop Music, Literature, Toponyms | 20M chars | Phase around a search text | | [SEALang](http://sealang.net/thai/corpus.htm)
 HSE Thai Corpus | Modern texts written in Thai language (mostly news websites) | 50M tokens | Query by word form, lexeme, translation, grammatical attributes, lexical attributees | |  [HSE School of Linguistics](http://web-corpora.net/ThaiCorpus/search/)
 
